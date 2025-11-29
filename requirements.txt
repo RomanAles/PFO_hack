@@ -1,0 +1,7 @@
+# pandas version 2.2.3
+# rasterio version 1.4.1
+# matplotlib version 3.9.2
+# catboost version 1.2.7
+# os version 1.3
+# cv2 version 4.10.0.84
+# joblib version 1.4.2
